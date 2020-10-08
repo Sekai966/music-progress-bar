@@ -33,7 +33,7 @@ Please see [here](CHANGELOG.md)
 ```
 const { porgressBar } = require("music-progress-bar");
 
-console.log(porgressBar([Options](Options)));
+console.log(porgressBar(Options));
 ```
 
 ### Options
