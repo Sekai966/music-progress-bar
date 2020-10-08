@@ -33,7 +33,7 @@ Please see [here](CHANGELOG.md)
 ```
 const { porgressBar } = require("music-progress-bar");
 
-console.log(porgressBar(current pos, ending pos, bar width, "time line style", "Current time style"));
+console.log(porgressBar(start, end, width, bodyStyle, currentStyle));
 ```
 
 ### Options
