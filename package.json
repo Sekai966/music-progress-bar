@@ -1,0 +1,14 @@
+{
+  "name": "music-progress-bar",
+  "version": "0.0.5",
+  "description": "a simple flexiable music progress bar ",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [
+    "progress",
+    "bar"
+  ],
+  "author": "Sekai966 ahmedx793@gmail.com",
+  "license": "ISC"
+}
