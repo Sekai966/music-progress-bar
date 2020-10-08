@@ -30,11 +30,11 @@ Please see [here](CHANGELOG.md)
 
 
 ## configuration
-`
+```
 const { porgressBar } = require("music-progress-bar");
 
 console.log(porgressBar(current pos, ending pos, bar width, "time line style", "Current time style"));
-`
+```
 
 ### Options
 
