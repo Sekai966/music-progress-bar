@@ -21,13 +21,13 @@ Please see [here](CHANGELOG.md)
 
 
 ## configuration
-`
+```
 
 const { porgressBar } = require("music-progress-bar");
 
 console.log(porgressBar(10, 30, 20, "=", "*"));
 
-`
+```
 
 ## docs
 porgressBar(inputs)
