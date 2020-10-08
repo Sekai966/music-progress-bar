@@ -8,7 +8,6 @@ exports.porgressBar = function (start, end, width, bodyStyle, currentStyle) {
     if (!end || isNaN(end)) return console.error(new Error("End must be a Timestamp"));
 
     let precent = Math.floor(start * 20 / end)
-    console.log(precent)
 
     let str = "";
     for (let cent = 0; cent <= width; cent++) {
