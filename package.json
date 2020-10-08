@@ -1,14 +1,21 @@
 {
   "name": "music-progress-bar",
-  "version": "0.0.5",
+  "version": "0.0.9",
   "description": "a simple flexiable music progress bar ",
   "main": "index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "keywords": [
     "progress",
     "bar"
   ],
   "author": "Sekai966 ahmedx793@gmail.com",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sekai966/music-progress-bar.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Sekai966/music-progress-bar/issues"
+  },
+  "homepage": "https://github.com/Sekai966/music-progress-bar#readme"
 }
