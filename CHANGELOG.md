@@ -18,4 +18,4 @@ a simple flexiable music progress bar
 * Added format 
 * Added pattern
 * Added showprecent
-* Now settings/options is an object now
+* Now settings/options is an object
