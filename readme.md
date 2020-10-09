@@ -71,5 +71,5 @@ porgressBar({start:1,end:10,width:10,bodyStyle:"=",currentStyle:"*"}, {format:" 
 - `<%>` The % symbol
 - `<box>` The box bar !!
 
-* `pattern`
+* `pattern :`
 - `box` replaces the normal progress bar with a progress box xD
