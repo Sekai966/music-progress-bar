@@ -32,7 +32,7 @@ See [Changelog](CHANGELOG.md) !
 
 ## Changelog
 
-Please see [here](CHANGELOG.md)
+See [Changelog](CHANGELOG.md) !
 
 ### Supports :
 * node.js
