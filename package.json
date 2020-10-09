@@ -1,6 +1,6 @@
 {
   "name": "music-progress-bar",
-  "version": "0.0.9",
+  "version": "1.0.0",
   "description": "a simple flexiable music progress bar ",
   "main": "index.js",
   "scripts": {},
