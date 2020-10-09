@@ -57,8 +57,8 @@ These are keys in the options object you can pass to the progress bar along with
 - `start` Timestamp (3000) , `type : Timestamp`
 - `end` Timestamp (30000), `type : Timestamp`
 - `width` the displayed width of the progress bar defaulting to `20`, `type : Number`
-- `bodyStyle` the displayed time line style defaulting to `=`, `type : String`
-- `currentStyle` the displayed current postion style defaulting to `*`, `type : String`
+- `bodyStyle` the displayed time line style defaulting to `▬`, `type : String`
+- `currentStyle` the displayed current postion style defaulting to `🔘`, `type : String`
 
 
 ## Setttings ( {} )
