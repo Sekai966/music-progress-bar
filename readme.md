@@ -1,7 +1,7 @@
 # music-progress-bar
 a simple flexiable music progress bar
 
-# Result
+# Results
 * ======*===============
 * ======/===============
 * ======x===============
@@ -20,9 +20,9 @@ a simple flexiable music progress bar
 See [Changelog](CHANGELOG.md) !
 
 ## Features
-* Easy to use
-* Fast
-* You can change everything [style, witdh, ...]
+* Easy to use.
+* Fast.
+* You can change everything [style, witdh, ...].
 
 
 ## Requirements
