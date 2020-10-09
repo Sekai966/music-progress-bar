@@ -8,6 +8,13 @@ a simple flexiable music progress bar
 * ======x=====
 * xxxxxx*xxxxxxxxxxxxxxx
 * xxxxxx*xxxxxx
+* %3 [xxxxxxx*xxxx]
+* <xxxxxxx*xxxxx> 3%
+* lovely progress bar here => xxxxxx*xxxxx
+* lllllllllllllllllxlllllllllllll
+* ▬🔘▬▬▬▬▬▬▬▬▬ [3%]
+* ▬🔘▬▬▬▬▬▬▬▬▬ [00:00/02:26]
+- And more !!
 
 # V 1.0.0 is Here with big changes
 see [here](CHANGELOG.md)
