@@ -16,8 +16,8 @@ a simple flexiable music progress bar
 * ▬🔘▬▬▬▬▬▬▬▬▬ [00:00/02:26]
 - And more !!
 
-# V 1.0.0 is Here with big changes
-see [here](CHANGELOG.md)
+# V 1.0.1 is Here with changes
+See [Changelog](CHANGELOG.md) !
 
 ## Features
 * Easy to use
@@ -27,7 +27,7 @@ see [here](CHANGELOG.md)
 
 ## Requirements
 
-* Nothing
+* Nothing ;)
 
 
 ## Changelog
