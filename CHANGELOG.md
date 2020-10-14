@@ -16,7 +16,7 @@ a simple flexiable music progress bar
 * Added more detailed errors.
 
 - v 1.0.1 :
-* Fixed Start must be a time stamp bug.
+* Fixed Start must be a timestamp bug.
 * Changed from 20% to 100%.
 * Fixed some bugs.
 * Some optmization.
