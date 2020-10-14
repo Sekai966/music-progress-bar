@@ -4,7 +4,7 @@ a simple flexiable music progress bar
 
 # Changelog
 
-- v 1.0.2
+- v 1.0.4
 * Added `endOnCurrent` setting.
 * Added `noCurrent` setting.
 - Added `<nocurrentbar>` for `format`.

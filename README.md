@@ -16,7 +16,7 @@ a simple flexiable progress bar
 * ▬🔘▬▬▬▬▬▬▬▬▬ [00:00/02:26]
 - And more !!
 
-# V 1.0.2 is Here with changes
+# V 1.0.4 is Here with changes
 See [Changelog](CHANGELOG.md) !
 
 ## Features
@@ -65,7 +65,7 @@ These are keys in the options object you can pass to the progress bar along with
 
 - `format` Re desing the progress bar on your preferences.
 ``` 
-porgressBar({start:1,end:10,width:10,bodyStyle:"=",currentStyle:"*"}, {format:" [ <bar> ] <precent> hi <%>"}) ==> [ ===*====== ] 3 hi %
+porgressBar({currentPositon:1,endPositon:10,width:10,barStyle:"=",currentStyle:"*"}, {format:" [ <bar> ] <precent> hi <%>"}) ==> [ ===*====== ] 3 hi %
 ```
 - `endOnCurrent` Ends the progress bar when the current postion is reached.
 ```
