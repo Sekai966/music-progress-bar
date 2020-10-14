@@ -7,7 +7,7 @@ a simple flexiable music progress bar
 - v 1.0.4
 * Added `endOnCurrent` setting.
 * Added `noCurrent` setting.
-- Added `<nocurrentbar>` for `format`.
+* Added `<nocurrentbar>` for `format`.
 * Changed `start` to `currentPostion`.
 * Changed `end` to `endPostion`.
 * Changed `bodyStyle` to `barStyle`.
